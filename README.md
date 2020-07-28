@@ -1,3 +1,25 @@
-Buenos días <br>
+Estos son algunos de los proyectos mas relevantes que he creado, algunos como parte de las tareas propuestas durante mis estudios en Ingeniera de Telecomunicaciones y otros son una prueba de conceptos o contribuciones a otros proyectos. <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegoara96&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+### Contribuciones
+* [SafeExamBrowser](https://github.com/SafeExamBrowser/seb-win-refactoring): Mejora en la detección de entornos virtualizados usando identificadores PCI y direcciones MAC
+
+### Proyectos personales
+* [3enRaya](https://github.com/diegoara96/3enRaya): Juego de 3 en raya usando Python y Qt
+* [createRepoAutomat](https://github.com/diegoara96/createRepoAutomat): Script para crear un repositorio en Github y de forma local
+* [gitlabAutomateRepo](https://github.com/diegoara96/gitlabAutomateRepo):Script para crear un repositorio en Gitlab y de forma local
+
+## Proyectos Universidad
+
+### Proyectos individuales
+* [dns](https://github.com/diegoara96/dns): Servidor DNS local con soporte para distintos tipos de consultas
+* [servletJava](https://github.com/diegoara96/servletJava): Servicio web de consulta de informacion musical usando Apache tomcat
+* [Centro-Universitario](https://github.com/diegoara96/Centro-Universitario): Servicio de gestión de un centro universitario
+
+### Proyectos en grupo
+* [centralita-asterisk](https://github.com/araujo-barreiro/centralita-asterisk): Centralita telefónica en Asterisk con un menú interactivo
+* [generador-sinusoides](https://github.com/araujo-barreiro/generador-sinusoides): Sistema empotrado para generar sinusoides
+* [gestor-biblioteca](https://github.com/araujo-barreiro/gestor-biblioteca): Programa para gestionar los libros y lectores de una biblioteca
+* [taquilla-virtual](https://github.com/telecocos/taquilla-virtual): Base de datos para gestionar la venta de entradas para eventos de todo tipo
+
+
+![diegoaara96's github stats](https://github-readme-stats.vercel.app/api?username=diegoara96&show_icons=true&theme=dark)
