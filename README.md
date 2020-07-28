@@ -33,4 +33,4 @@ Estos son algunos de los proyectos mas relevantes que he creado, algunos como pa
 * [taquilla-virtual](https://github.com/telecocos/taquilla-virtual): Base de datos para gestionar la venta de entradas para eventos de todo tipo
 
 
-![diegoaara96's github stats](https://github-readme-stats.vercel.app/api?username=diegoara96&show_icons=true&theme=dark)
+![diegoaara96's github stats](https://github-readme-stats.vercel.app/api?username=diegoara96&show_icons=true&title_color=F44336&icon_color=FF4081&text_color=757575&bg_color=ffffff)
