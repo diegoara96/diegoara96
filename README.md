@@ -25,6 +25,7 @@ Estos son algunos de los proyectos mas relevantes que he creado, algunos como pa
 * [dns](https://github.com/diegoara96/dns): Servidor DNS local con soporte para distintos tipos de consultas
 * [servletJava](https://github.com/diegoara96/servletJava): Servicio web de consulta de informacion musical usando Apache tomcat
 * [Centro-Universitario](https://github.com/diegoara96/Centro-Universitario): Servicio de gestión de un centro universitario
+* [double-ratchet](https://github.com/diegoara96/double-ratchet): Programa de intercambio de mensajes de consola usando double rachet y Mqtt
 
 ### Proyectos en grupo
 * [centralita-asterisk](https://github.com/araujo-barreiro/centralita-asterisk): Centralita telefónica en Asterisk con un menú interactivo
