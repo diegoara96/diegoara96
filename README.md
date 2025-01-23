@@ -28,7 +28,7 @@ Estos son algunos de los proyectos mas relevantes que he creado, algunos como pa
 * [double-ratchet](https://github.com/diegoara96/double-ratchet): Programa de intercambio de mensajes de consola usando double rachet y Mqtt
 
 ### Proyectos en grupo
-* [centralita-asterisk](https://github.com/araujo-barreiro/centralita-asterisk): Centralita telefónica en Asterisk con un menú interactivo
+* [centralita-asterisk](https://github.com/araujo-barreiro/centralita-asterisk): Centralita telefónica en Asterisk con un menú interactivo 
 * [generador-sinusoides](https://github.com/araujo-barreiro/generador-sinusoides): Sistema empotrado para generar sinusoides
 * [gestor-biblioteca](https://github.com/araujo-barreiro/gestor-biblioteca): Programa para gestionar los libros y lectores de una biblioteca
 * [taquilla-virtual](https://github.com/telecocos/taquilla-virtual): Base de datos para gestionar la venta de entradas para eventos de todo tipo
